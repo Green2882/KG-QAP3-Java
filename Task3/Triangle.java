@@ -23,7 +23,7 @@ public class Triangle extends Shape {
         this.side3 = side3;
     }
 
-    // Override abstarct methods
+    // Override abstract methods
     @Override
     public double getPerimeter() {
 

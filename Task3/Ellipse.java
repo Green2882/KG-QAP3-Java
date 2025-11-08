@@ -19,7 +19,7 @@ public class Ellipse extends Shape {
         }
     }
 
-    // Override abstarct methods
+    // Override abstract methods
     @Override
     public double getPerimeter() {
 
