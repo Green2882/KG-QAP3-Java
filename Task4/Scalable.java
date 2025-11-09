@@ -1,5 +1,6 @@
 package Task4;
 
-public class Scalable {
+public interface Scalable {
 
+    void scale(double factor);
 }
